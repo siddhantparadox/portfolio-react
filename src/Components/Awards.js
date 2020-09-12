@@ -1,0 +1,37 @@
+import React, { Component } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faAward } from "@fortawesome/free-solid-svg-icons";
+
+class Awards extends Component {
+  constructor(props) {
+    super(props);
+
+    this.awards = props.awards;
+  }
+
+  render() {
+    return (
+      <section
+        className="resume-section p-3 p-lg-5 d-flex align-items-center "
+        id="awards"
+      >
+        <div className="w-100">
+          <h2 className="mb-5">Achievements and Projects</h2>
+          <ul className="fa-ul mb-0">
+            {this.awards.map((data, index) => (
+              <li key={index}>
+                <FontAwesomeIcon icon={faAward} color="#ffc107" />
+                <span className="subheading mb-3"> {data.title} </span>
+                <div className="mb-0"> {data.description} </div>
+                <div className="mb-0"> {data.link} </div>
+                <div className="mb-0"> {data.gitlink} </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    );
+  }
+}
+
+export default Awards;

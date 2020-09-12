@@ -1,0 +1,136 @@
+{
+  "landing": {
+    "firstName": "Siddhant",
+    "lastName": " Gupta",
+    "phoneNumber": "+919011412293",
+    "bio": "I am Siddhant Gupta and currently I am a 3rd year undergraduate student at Shri Sant Gajanan Maharaj College of Engineering, Shegaon. I was the Chairperson of SSGMCE ACM Student Chapter for the academic year 2019-20 and was also the member of E-Cell SSGMCE for the academic year 2019-20. Currently I am the Technical Advisor of E-Cell SSGMCE. I have worked with Exposys Data Labs, Bengaluru as an intern and made a peer to peer video call service for the company using React.js. I also know Kotlin and made a basic music player app as a starter project. I want to learn more about Android app development and how to implement Machine learning and Artificial Intelligence model in an Android app. I want want to learn about MERN stack web development. My main aim is to solve problems using my skills that will not only help me in the long race but also all the humans who face that problem.",
+
+    "email": "siddhantg314@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/siddhantgupta4/",
+    "github": "https://github.com/siddhantparadox",
+    "facebook": "https://www.facebook.com/4siddhant/",
+    "instagram": "https://www.instagram.com/siddhantparadox/",
+    "twitter": "https://twitter.com/siddhantg7"
+  },
+  "experience": [
+    {
+      "position": "Chairperson",
+      "organization": "SSGMCE ACM Student Chapter",
+      "aboutWork": "Was the head of all the operations in the Chapter. My team generated a total profit of INR 7000/- by conducting workshops and various events for the students of our college.",
+      "fromDate": "September 2019",
+      "toDate": "August 2020"
+    },
+    {
+      "position": "Web Dev Intern",
+      "organization": "Exposys Data Labs",
+      "aboutWork": "My project from the company was to make a simple peer to peer video calling service.",
+      "fromDate": "July 2020",
+      "toDate": "August 2020"
+    },
+    {
+      "position": "Technical Advisor",
+      "organization": "E-Cell SSGMCE",
+      "aboutWork": "",
+      "fromDate": "August 2020",
+      "toDate": "Present"
+    }
+  ],
+  "education": [
+    {
+      "university": "Shri Sant Gajanan Maharaj College of Engineering",
+      "degree": "Bachelor of Engineering",
+      "track": "Information Technology",
+      "gpa": "4th Semester- 8.16",
+      "coursework": "",
+      "fromDate": "August 2018",
+      "toDate": "Present"
+    },
+    {
+      "university": "",
+      "degree": "",
+      "track": "",
+      "gpa": "",
+      "coursework": "",
+      "fromDate": "",
+      "toDate": ""
+    }
+  ],
+  "projects": [
+    {
+      "projectname": "TODO List",
+      "technologyused": "React.js",
+      "link": "#",
+      "time": "10 Days"
+    },
+    {
+      "projectname": "TODO List",
+      "technologyused": "React.js",
+      "link": "#",
+      "time": "10 Days"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Leadership"
+    },
+    {
+      "name": "Team Work"
+    },
+    {
+      "name": "Communication"
+    },
+    {
+      "name": "Public Speaking"
+    },
+    {
+      "name": "Decision Making"
+    },
+    {
+      "name": "Critical thinking"
+    },
+    {
+      "name": "Problem Solving"
+    },
+    {
+      "name": "Listening"
+    }
+  ],
+  "interests": {
+    "paragraphOne": "Keeping work aside for sometime, I've always loved playing Football from my school days. I was also the part of our school football team. I also like playing badminton and Table Tennis. I like travelling too. Whenever I get free time, I dive deep into gaming. PUBG and FIFA are some of my favorite games OR maybe I try my hands cooking something new as I love cooking too.",
+    "paragraphTwo": "When I am not thinking about work or anying other, I indulge my time writing poems and binge watching movies and TV shows."
+  },
+  "awards": [
+    {
+      "title": "IBM Hack Challenge 2020",
+      "description": "Out of 4570 total registered teams, Our team was among the top 30 finalists. Our Project was based on a machine learning model and it was called sentiment analysis of COVID-19 tweets. Our model fetched live tweets from twitter using twitter api and displayed them on screen using node red tech."
+    },
+    {
+      "title": "Todo List Project",
+      "description": "A web app which is a todo list using React.js. Use the link below to view the project.",
+      "link": "Live Site: https://unruffled-dijkstra-9d8560.netlify.app/",
+      "gitlink": "Github: https://github.com/siddhantparadox/TODO-LIST"
+    },
+    {
+      "title": "Calculator",
+      "description": "A web app which is a Calculator using React.js. Use the link below to view the project.",
+      "link": "Live Site: https://5f55d35f080cf095cd62f353--agitated-wiles-b57206.netlify.app/",
+      "gitlink": "Github: https://github.com/siddhantparadox/reactCalculator"
+    },
+    {
+      "title": "COVID-19 Dashboard",
+      "description": "A COVID-19 Dashboard which shows live data of patients and recoveries all over the world using Tableau.",
+      "link": "Live Site: https://github.com/siddhantparadox/COVID-19-Dashboard",
+      "gitlink": "Github: https://public.tableau.com/profile/api/publish/COVID-19DashboardbySiddhantGupta/COVID-19Dashboard"
+    },
+    {
+      "title": "Tic-Tac-Toe",
+      "description": "Made a 2 player Tic-Tac-Toe game using Python",
+      "gitlink": "Github: https://github.com/siddhantparadox/TicTacToe"
+    },
+    {
+      "title": "Castle Dungeon story game",
+      "description": "Made a single player castle dungeon stody mode game using Python",
+      "gitlink": "Github: https://github.com/siddhantparadox/Castle-Dungeons"
+    }
+  ]
+}
